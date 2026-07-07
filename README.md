@@ -7,10 +7,10 @@
 **Building enterprise software, AI systems, and architectures that scale.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartsolutionsguru)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shababarshadbutt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=smartsolutionsguru&style=flat-square&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=shababarshadbutt&style=flat-square&color=blueviolet)
 
 </div>
 
@@ -22,7 +22,7 @@ I'm a **Principal Software Engineer** with **10+ years** designing and building 
 
 Alongside industry work, I'm pursuing an **MPhil in Data Science**, where my research focuses on **Trustworthy AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Security**.
 
-I enjoy hard engineering problems and software that scales to millions of users.
+I enjoy solving hard engineering problems and building software that scales to millions of users.
 
 ---
 
@@ -73,20 +73,20 @@ I enjoy hard engineering problems and software that scales to millions of users.
 
 ## 🌟 Featured Projects
 
-### 🔐 Salwa Framework — *[view repo](#)*
-Enterprise multi-layer security framework for trustworthy AI and LLMs.
-`Prompt-injection protection` · `Policy enforcement & guardrails` · `Trust scoring` · `RAG security` · `AI governance`
+### 🔐 Salwa Framework
+Enterprise multi-layer security framework for trustworthy AI and LLMs.  
+`Prompt-injection protection` · `Policy enforcement & guardrails` · `Trust scoring` · `RAG security`
 
-### ⚡ Flow Genius — *[view repo](#)*
+### ⚡ Flow Genius
 Visual workflow automation platform built on .NET.
 
-### 🌐 Sitemap Verifier — *[view repo](#)*
-High-performance sitemap validation engine that processes very large XML sitemaps efficiently — built for enterprise-scale websites.
+### 🌐 Sitemap Verifier
+High-performance sitemap validation engine for large XML sitemaps.
 
-### 🎂 Baking Sisters — *[view repo](#)*
-Complete business platform: Blazor web app, customer portal, chatbot, and order management.
+### 🎂 Baking Sisters
+Complete business platform with Blazor web app, customer portal, chatbot & order management.
 
-### 📊 Reporting Engine — *[view repo](#)*
+### 📊 Reporting Engine
 Enterprise reporting platform built with .NET technologies.
 
 ---
@@ -95,10 +95,11 @@ Enterprise reporting platform built with .NET technologies.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=smartsolutionsguru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smartsolutionsguru&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shababarshadbutt&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=smartsolutionsguru&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shababarshadbutt&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shababarshadbutt&hide_border=true&theme=tokyonight)
 
 </div>
 
@@ -106,7 +107,7 @@ Enterprise reporting platform built with .NET technologies.
 
 ## 🚀 Focus & Research
 
-`Trustworthy AI & LLM Security` · `Enterprise AI Frameworks` · `RAG` · `Explainable AI`
+`Trustworthy AI & LLM Security` · `Enterprise AI Frameworks` · `RAG` · `Explainable AI`  
 `Software Architecture` · `High-Performance Backends` · `Distributed Systems` · `Azure Cloud`
 
 **Currently exploring:** Deep Learning · MLOps · AI Agents & Multi-Agent Systems · Knowledge Graphs
