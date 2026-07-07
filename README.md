@@ -1,232 +1,130 @@
-<h1 align="center">
-Hi 👋 I'm Shabab Arshad Butt
-</h1>
+<div align="center">
 
-<h3 align="center">
-Principal Software Engineer • .NET • Azure • AI • Data Science
-</h3>
+# Hi 👋 I'm Shabab Arshad Butt
 
-<p align="center">
-Building enterprise software, AI systems, and scalable architectures.
-</p>
+### Principal Software Engineer · .NET · Azure · AI · Data Science
+
+**Building enterprise software, AI systems, and architectures that scale.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartsolutionsguru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=smartsolutionsguru&style=flat-square&color=blueviolet)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Principal Software Engineer** with over **10 years of experience** designing and developing enterprise software using the Microsoft technology stack.
+I'm a **Principal Software Engineer** with **10+ years** designing and building enterprise software on the Microsoft stack — scalable backends, cloud-native and distributed systems, and AI-powered applications.
 
-My professional work focuses on building scalable backend systems, cloud-native applications, distributed architectures, AI-powered solutions, and modern web applications.
+Alongside industry work, I'm pursuing an **MPhil in Data Science**, where my research focuses on **Trustworthy AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Security**.
 
-Alongside my industry experience, I'm currently pursuing an **MPhil in Data Science**, where my research focuses on **Trustworthy AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Security**.
-
-I enjoy solving difficult engineering problems and building software that can scale to millions of users.
-
----
-
-## 🚀 Current Focus
-
-- 🤖 Trustworthy AI & LLM Security
-- 🧠 Enterprise AI Frameworks
-- ☁ Azure Cloud Solutions
-- 🏗 Software Architecture
-- ⚡ High Performance Backend Systems
-- 🔍 Data Science & Machine Learning
-- 🌐 Distributed Systems
-- 📚 Open Source Development
+I enjoy hard engineering problems and software that scales to millions of users.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages**
 
-- C#
-- Python
-- JavaScript
-- TypeScript
-- SQL
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Microsoft Stack
+**.NET & Web**
 
-- .NET
-- ASP.NET Core
-- Blazor
-- MAUI
-- Xamarin
-- WPF
-- UWP
-- Web API
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Cloud
+**Cloud & DevOps**
 
-- Azure
-- Azure App Services
-- Azure Storage
-- Azure Functions
-- Azure AI Services
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
+**Databases**
 
-- SQL Server
-- PostgreSQL
-- MongoDB
-- Cosmos DB
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### AI & Data Science
+**AI & Data Science**
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- LLMs
-- RAG
-- Prompt Engineering
-
-### DevOps
-
-- Git
-- GitHub Actions
-- Docker
-- CI/CD
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1A7F64?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🚀 Salwa Framework
+### 🔐 Salwa Framework — *[view repo](#)*
+Enterprise multi-layer security framework for trustworthy AI and LLMs.
+`Prompt-injection protection` · `Policy enforcement & guardrails` · `Trust scoring` · `RAG security` · `AI governance`
 
-Enterprise multi-layer security framework for trustworthy AI and Large Language Models.
+### ⚡ Flow Genius — *[view repo](#)*
+Visual workflow automation platform built on .NET.
 
-Features include:
+### 🌐 Sitemap Verifier — *[view repo](#)*
+High-performance sitemap validation engine that processes very large XML sitemaps efficiently — built for enterprise-scale websites.
 
-- Prompt Injection Protection
-- Multi-layer Security
-- Policy Enforcement
-- Guardrails
-- Trust Scoring
-- RAG Security
-- AI Governance
+### 🎂 Baking Sisters — *[view repo](#)*
+Complete business platform: Blazor web app, customer portal, chatbot, and order management.
 
----
-
-## ⚡ Flow Genius
-
-Visual workflow automation platform built using .NET technologies.
-
----
-
-## 🌐 Sitemap Verifier
-
-High-performance sitemap validation engine capable of processing extremely large XML sitemaps efficiently.
-
-Designed for enterprise-scale websites.
-
----
-
-## 🎂 Baking Sisters
-
-Complete business platform including:
-
-- Blazor Web Application
-- Customer Portal
-- Chatbot
-- Order Management
-
----
-
-## 📊 Reporting Engine
-
+### 📊 Reporting Engine — *[view repo](#)*
 Enterprise reporting platform built with .NET technologies.
 
 ---
 
-# 💼 Professional Experience
+## 📊 GitHub Stats
 
-✔ Enterprise Software Development
+<div align="center">
 
-✔ Software Architecture
+![Stats](https://github-readme-stats.vercel.app/api?username=smartsolutionsguru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smartsolutionsguru&layout=compact&hide_border=true&theme=tokyonight)
 
-✔ Cloud Native Applications
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=smartsolutionsguru&hide_border=true&theme=tokyonight)
 
-✔ AI Integration
-
-✔ Distributed Systems
-
-✔ Microservices
-
-✔ REST APIs
-
-✔ Authentication & Security
-
-✔ Performance Optimization
-
-✔ Technical Leadership
+</div>
 
 ---
 
-# 📖 Research Interests
+## 🚀 Focus & Research
 
-- Artificial Intelligence
+`Trustworthy AI & LLM Security` · `Enterprise AI Frameworks` · `RAG` · `Explainable AI`
+`Software Architecture` · `High-Performance Backends` · `Distributed Systems` · `Azure Cloud`
 
-- Large Language Models
-
-- Trustworthy AI
-
-- Explainable AI
-
-- Retrieval-Augmented Generation
-
-- AI Security
-
-- Machine Learning
-
-- Data Science
+**Currently exploring:** Deep Learning · MLOps · AI Agents & Multi-Agent Systems · Knowledge Graphs
 
 ---
 
-# 📈 Currently Learning
+## 🤝 Open to Collaborate
 
-- Advanced Machine Learning
-- Deep Learning
-- MLOps
-- AI Agents
-- Multi-Agent Systems
-- Knowledge Graphs
-- Distributed AI Systems
+Enterprise .NET projects · AI research · Open source · Cloud solutions · Data science
 
 ---
 
-# 🤝 Open to Collaborate
+<div align="center">
 
-I'm interested in collaborating on:
+### 💡 Philosophy
 
-- Enterprise .NET Projects
-- AI Research
-- Open Source
-- Cloud Solutions
-- Data Science Projects
-
----
-
-# 📫 Connect With Me
-
-LinkedIn
-
-GitHub
-
-Email
-
----
-
-## 💡 Philosophy
-
-> "Build software that scales.
->
-> Build systems that last.
->
-> Keep learning."
-
----
+> *Build software that scales. Build systems that last. Keep learning.*
 
 ⭐ If you find my work useful, consider starring one of my repositories.
+
+</div>
