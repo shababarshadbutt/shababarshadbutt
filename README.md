@@ -98,7 +98,7 @@ Enterprise reporting platform built with .NET technologies.
 ![Stats](https://github-readme-stats.vercel.app/api?username=smartsolutionsguru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smartsolutionsguru&layout=compact&hide_border=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=smartsolutionsguru&hide_border=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=smartsolutionsguru&hide_border=true&theme=tokyonight)
 
 </div>
 
